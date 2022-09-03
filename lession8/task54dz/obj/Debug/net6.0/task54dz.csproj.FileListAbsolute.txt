@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession8\task54dz\obj\Debug\net6.0\task54dz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession8\task54dz\obj\Debug\net6.0\task54dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession8\task54dz\obj\Debug\net6.0\task54dz.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession8\task54dz\obj\Debug\net6.0\task54dz.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession8\task54dz\obj\Debug\net6.0\task54dz.csproj.CoreCompileInputs.cache

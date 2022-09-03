@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar c#4\tas30\bin\Debug\net6.0\tas30.exe
+C:\Users\Admin\Desktop\Seminar c#4\tas30\bin\Debug\net6.0\tas30.deps.json
+C:\Users\Admin\Desktop\Seminar c#4\tas30\bin\Debug\net6.0\tas30.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar c#4\tas30\bin\Debug\net6.0\tas30.dll
+C:\Users\Admin\Desktop\Seminar c#4\tas30\bin\Debug\net6.0\tas30.pdb
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.dll
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\refint\tas30.dll
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.pdb
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\tas30.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar c#4\tas30\obj\Debug\net6.0\ref\tas30.dll

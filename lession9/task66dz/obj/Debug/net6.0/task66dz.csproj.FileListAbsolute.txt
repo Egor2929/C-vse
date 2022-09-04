@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\bin\Debug\net6.0\task66dz.exe
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\bin\Debug\net6.0\task66dz.deps.json
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\bin\Debug\net6.0\task66dz.runtimeconfig.json
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\bin\Debug\net6.0\task66dz.dll
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\bin\Debug\net6.0\task66dz.pdb
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.dll
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\refint\task66dz.dll
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.pdb
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\task66dz.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Sem.Lek vse C#\lession9\task66dz\obj\Debug\net6.0\ref\task66dz.dll
